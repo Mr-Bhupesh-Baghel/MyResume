@@ -1,0 +1,93 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f9f9f9;
+  color: #2c3e50;
+  padding: 20px;
+}
+
+.container {
+  max-width: 960px;
+  background: #fff;
+  margin: auto;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+header h1 {
+  font-size: 2.5rem;
+  color: #1a237e;
+}
+
+header p {
+  font-size: 1.1rem;
+  color: #555;
+}
+
+.contact {
+  margin-top: 10px;
+  font-size: 0.95rem;
+  color: #444;
+}
+
+a {
+  color: #1a73e8;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h2 {
+  color: #0d47a1;
+  border-bottom: 2px solid #ccc;
+  margin: 20px 0 10px;
+  padding-bottom: 5px;
+}
+
+.skills {
+  font-weight: 500;
+  margin-bottom: 20px;
+  color: #444;
+}
+
+.project, .experience {
+  margin-bottom: 15px;
+}
+
+.project h3, .experience h3 {
+  display: flex;
+  justify-content: space-between;
+  color: #2e7d32;
+}
+
+.date {
+  font-size: 0.9rem;
+  color: #777;
+  font-weight: normal;
+}
+
+ul {
+  margin-left: 20px;
+  margin-top: 5px;
+  color: #444;
+}
+
+footer {
+  text-align: center;
+  font-size: 0.85rem;
+  color: #888;
+  margin-top: 40px;
+}
