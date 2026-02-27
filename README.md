@@ -13,4 +13,3 @@ I have the capability to **learn new skills depending on demand** and continuous
 - 📧 Email: [MrBhupeshBaghel@gmail.com](mailto:MrBhupeshBaghel@gmail.com)  
 - 📞 Phone: +91-9761976695  
 - 🌐 GitHub: [MR-BHUPESH-BAGHEL](https://github.com/MR-BHUPESH-BAGHEL)  
-- 📺 YouTube: [JustLearningWith Bhupesh Baghel](https://www.youtube.com/@JustLearningWithBhupeshBaghel)
